@@ -8,7 +8,7 @@
   "server": {
     "ip": "ANHEMBAO.aternos.me",
     "port": 13370,
-    "version": "",
+    "version": false,
     "try-creative": false
   },
   "position": {
